@@ -4,7 +4,7 @@
 - react-router
 - hooks
 - prop-types
-- css-modules
+- styled components
 - webpack
 - babel
 - eslint
